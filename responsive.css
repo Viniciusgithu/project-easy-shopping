@@ -1,0 +1,60 @@
+@media screen and (max-width: 1060px){
+  .container {
+    display: block;
+    padding: 0;
+    margin: 0;
+    height: auto;
+    width: auto;
+  }
+
+  .info-left {
+    width: 100%;
+    display: block;
+    height: 50%;
+    margin-bottom: 5px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    line-height: 52px;
+    width: auto;
+    margin: 58px 50px 0 50px;
+    text-align: center;
+  }
+
+  p {
+    margin: 15px 40px;
+    width: auto;
+    text-align: center;
+  }
+
+  button {
+    display: block;
+    margin: 0 auto;
+    
+  }
+
+
+  .info-right {
+    display: block;
+    height: auto;
+    width: 100%;
+    position: static;
+    padding: 40px;
+  }
+
+  img {
+    position: static;
+    max-width: 90%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  header a {
+    display: none;
+  }
+
+}
+
+
+
